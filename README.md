@@ -14,7 +14,9 @@ Echem-Pi is a low-cost, standalone electrochemical instrument based on the Raspb
 *  [Schematics - D/A and A/D](https://github.com/toshinagata/echempi/blob/master/schem_digital.pdf)
 *  [Schematics - Potentiostat](https://github.com/toshinagata/echempi/blob/master/schem_analog.pdf)
 
-##  Software
+##  How to Set Up
+
+See [here](SetupRpi.md).
 
 ##  License
 

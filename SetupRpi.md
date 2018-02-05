@@ -1,8 +1,4 @@
-#  [Echem-Pi](README.md): A Standalone Electrochemical Instrument Based on Raspberry Pi
-
-  Toshi Nagata
-
-# How to set up the Raspberry Pi
+#  [Echem-Pi](README.md): How to set up the Raspberry Pi
 
 ##  Raspberry Pi Model
 
