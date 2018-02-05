@@ -1,4 +1,4 @@
-#  [Echem-Pi](README.md): How to set up the Raspberry Pi
+#  [Echem-Pi](.): How to set up the Raspberry Pi
 
 ##  Raspberry Pi Model
 
@@ -23,7 +23,7 @@ Install them by the following command line.
 
 ###  Set up LCD and Touch Screen
 
-TODO
+See [swkim01/waveshare-dtoverlays](https://github.com/swkim01/waveshare-dtoverlays)
 
 ###  Install Software
 
