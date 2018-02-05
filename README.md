@@ -24,4 +24,4 @@ The schematics and software are released under [the MIT open source license](htt
 
 ##  Author
 
-[Toshi Nagata](email:alchemist.2005@nifty.com) [http://blog.d-alchemy.xyz/](http://blog.d-alchemy.xyz/)
+Toshi Nagata [http://blog.d-alchemy.xyz/](http://blog.d-alchemy.xyz/)
