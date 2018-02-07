@@ -25,6 +25,21 @@ Install them by the following command line.
 
 See [swkim01/waveshare-dtoverlays](https://github.com/swkim01/waveshare-dtoverlays).
 
+###  Touch Screen Calibration
+
+1. Confirm the device number by `evtest`.
+
+        $ evtest
+        ....
+        Available devices:
+        /dev/input/event0: ADS7846 Touchscreen
+
+2. Calibrate by `ts_calibrate`.
+
+        $ sudo TSLIB_FBDEVICE=/dev/fb1 TSLIB_TSDEVICE=/dev/input/event0 ts_calibrate
+
+3. Touch the '+' mark by the stylus pen.
+
 ###  Install Software
 
 Copy the `echem` directory to the home directory.
